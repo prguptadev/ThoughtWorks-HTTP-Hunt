@@ -1,5 +1,5 @@
 # ThoughtWorks-HTTP-Hunt
-ThoughtWorks Http hunt challenege .
+ThoughtWorks Http hunt challenge .
 
 
 A game sent to me by ThoughWorks as a test completely based on Rest API and calls
