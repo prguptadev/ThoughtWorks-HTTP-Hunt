@@ -6,7 +6,7 @@ A game sent to me by ThoughWorks as a test completely based on Rest API and call
 
 In this game, you will have to solve series of programming challenges till you hit the finish line. But there's a bit of a twist to it.
 
-The whole game is driven by HTTP REST APIs. You can read about REST at https://en.wikipedia.org/wiki/Representational_state_transfer ( https://en.wikipedia.org/wiki/Representational_state_transfer )
+The whole game is driven by HTTP REST APIs. You can read about REST at  ( https://en.wikipedia.org/wiki/Representational_state_transfer )
 
 Few important guidelines:
 
